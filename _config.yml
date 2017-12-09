@@ -1,10 +1,10 @@
 markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:day/:title.html
-name: "JoshTime"
+name: "NetCafe"
 
-author: "JoshTime"
-atom-baseurl: "http://hijoe.tk"
+author: "Joe"
+atom-baseurl: "http://hijoe.net"
 disqus: "hijosh"
 
 navigations:
@@ -22,7 +22,7 @@ navigations:
     href: http://photo.hijoe.net/folder/josh
   - title: Read+
     class: fa fa-list-ul
-    href:  http://dwz.cn/joesbb
+    href:  http://dwz.cn/netcafe
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
