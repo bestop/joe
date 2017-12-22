@@ -11,7 +11,7 @@ summary: "一碗好面"
 
 <img alt="" border="0" src="http://ww4.sinaimg.cn/mw690/4df62ff3gw1eyc2hqz8zqj20m80xctjx.jpg" width=400px>    
 
-附上一篇好文，一碗清汤荞麦面，欢迎收听。     
-<iframe height="36" width="260" src="http://www.ximalaya.com/swf/sound/red.swf?id=4469144" frameborder=0 allowfullscreen></iframe>
+附上好文一篇，欢迎收听。        
 
+[一碗清汤荞麦面](http://www.ximalaya.com)
 
