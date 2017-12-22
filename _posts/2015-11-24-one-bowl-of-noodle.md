@@ -13,5 +13,5 @@ summary: "一碗好面"
 
 附上好文一篇，欢迎收听。        
 
-[一碗清汤荞麦面](http://www.ximalaya.com)
+[一碗清汤荞麦面](http://www.ximalaya.com/77378801/album/7340099/)
 
